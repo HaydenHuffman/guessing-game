@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Assignment2Application {
-
+// THIS IS A COMMENT!!!
     public static void main(String[] args) {
         int count = 0;
         Random random = new Random();
